@@ -13,10 +13,10 @@ Promote Reusability: Provide well-documented scripts that you can adapt and use 
 Share and Learn: Offer a platform for sharing useful scripts and discovering new ways to leverage the power of Bash.
 
 ## Sections
-[Networking](/Networking)
-[File Operations](/FileOperations)
-[Curl (API)](/Curl (APIs))
-[Backups](/Backups)
+[Networking](/Networking)<br>
+[[File Operations](/FileOperations)](https://github.com/harmon-tuazon/Bash-Scripts/tree/c617e63c719c5198b027927da88a2cbff7877d9f/File%20Operations)<br>
+[[Curl (API)](/Curl (APIs))](https://github.com/harmon-tuazon/Bash-Scripts/tree/c495c70582465c078a3289ea1d542ad039ef1073/Curl%20(APIs))<br>
+[[Backups](/Backups)](https://github.com/harmon-tuazon/Bash-Scripts/tree/c617e63c719c5198b027927da88a2cbff7877d9f/Backups)<br>
 
 
 
