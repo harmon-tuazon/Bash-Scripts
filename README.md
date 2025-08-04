@@ -14,8 +14,8 @@ Share and Learn: Offer a platform for sharing useful scripts and discovering new
 
 ## Sections
 [Networking](/Networking)<br>
-[File Operations](/FileOperations)<br>
-[Curl (API)](/Curl (APIs))<br>
+[File Operations](/File%20Operations)<br>
+[Curl (API)](/Curl%20(APIs))<br>
 [Backups](/Backups)<br>
 
 
