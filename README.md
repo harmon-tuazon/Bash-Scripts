@@ -11,3 +11,11 @@ Simplify Complex Tasks: Break down multi-step processes into single, easy-to-exe
 Promote Reusability: Provide well-documented scripts that you can adapt and use in your own workflows.
 
 Share and Learn: Offer a platform for sharing useful scripts and discovering new ways to leverage the power of Bash.
+
+## Sections
+[Networking](/Networking)
+[File Operations](/File Operations)
+[Curl (API)](/Curl (API))
+
+
+
