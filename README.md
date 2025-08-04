@@ -13,10 +13,13 @@ Promote Reusability: Provide well-documented scripts that you can adapt and use 
 Share and Learn: Offer a platform for sharing useful scripts and discovering new ways to leverage the power of Bash.
 
 ## Sections
-Networking: [Networking](/Networking)<br>
-File Operations: [File Operations](/File%20Operations)<br>
-Curl: [Curl (API)](/Curl%20(APIs))<br>
-Backup: [Backups](/Backups)<br>
+Networking: [Networking](/Networking)<br>  
+
+File Operations: [File Operations](/File%20Operations)<br>  
+
+Curl: [Curl (API)](/Curl%20(APIs))<br>  
+
+Backup: [Backups](/Backups)<br>  
 
 
 
